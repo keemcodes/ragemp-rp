@@ -1,3 +1,3 @@
 # ragemp-rp
 
-# Hi I'm Yisui
+Hi I'm Yisui
